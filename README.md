@@ -25,7 +25,7 @@ A modern travel assistant web application built with **React**, **TypeScript**, 
 
 ## 📸 Preview
 
-![Rick and Morty App Screenshot](https://i.postimg.cc/CLYC09GD/Screenshot-280.png)
+![Rick and Morty App Screenshot](https://i.postimg.cc/qB3MjYyf/Screenshot-280.png)
 
 
 ![Rick and Morty App Screenshot](https://i.postimg.cc/C57vG0Cy/Screenshot-286.png)
