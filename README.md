@@ -24,8 +24,7 @@ A modern travel assistant web application built with **React**, **TypeScript**, 
 ## 📸 Preview
  
 
-[View Demo Video](src/video/TravelBook_V1.mp4)
-
+[![Video Preview](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](src/video/TravelBook_V1.mp4)
 
 ![Rick and Morty App Screenshot](https://i.postimg.cc/qB3MjYyf/Screenshot-280.png)
 
